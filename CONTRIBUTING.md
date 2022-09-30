@@ -8,4 +8,4 @@ To contribute to the project, first visit the issues tab in github and take up a
 - Once done, add, commit and push your changes to your forked repo.
 - After pushing, make a PR (pull request) to the main branch of the actual repository
 
-We will verify your PR post that and merge it if everything looks good. It will be posted to dev.to post that, and will contain your name. Please mention your dev.to username in the PR if you wish to be tagged in the post.
+We will verify your PR post that and merge it if everything looks good. Please make sure to mention the topics in the PR. It will be posted to dev.to post that, and will contain your name. Please mention your dev.to username in the PR if you wish to be tagged in the post.
