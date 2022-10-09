@@ -56,7 +56,7 @@ The Firebase use cases include:
 
   * _Authentication_
    
-   A Firebase component called authentication offers simple SDKs, backends, and ready-to-use UI libraries for user application authentication. _Phone numbers_, _passwords_, and websites like _Google_, _Twitter_, _Facebook_, and others are supported for authentication.
+    A Firebase component called authentication offers simple SDKs, backends, and ready-to-use UI libraries for user application authentication. _Phone numbers_, _passwords_, and websites like _Google_, _Twitter_, _Facebook_, and others are supported for authentication.
 
   * _Hosting_
 
