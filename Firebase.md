@@ -40,11 +40,12 @@ The Firebase use cases include:
 ## Firebase Features
 
 * __Build__
-  * _Databases (Cloud Firestore + Real Time Database)_
+  * _Databases (Cloud Firestore + Real Time Database)_  
+
     The Firebase mobile application development platform includes Cloud Firestore, often known as Google Firestore.
 
     Fundamentally, it is a cloud-based NoSQL database for synchronising and storing data. Through native SDKs, Firebase users can access Firestore from their mobile or web applications.
-    
+
   * _Cloud Functions_
 
   * _Authentication_
