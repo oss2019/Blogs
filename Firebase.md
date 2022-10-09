@@ -48,17 +48,29 @@ The Firebase use cases include:
   * _Machine Learning_
   * _Storage_
   * _Emulator_
+  
 * __Release Monitor__
+  
   * _Crashlytics_
+
   * _Analytics_
+
   * _Performance Monitoring_
+
   * _Test Lab_
+
   * _App Distribution_
+
+  
 * __Engage__
   * _Remote Config_
+  
   * _Predictions_
+
   * _A/B Testing_
+
   * _Dynamic Links_
+
   * _In App-Messaging_
 
 
