@@ -74,24 +74,32 @@ The Firebase use cases include:
   
 * __Release Monitor__
   * _Crashlytics_
+    Firebase's real-time crash reporting, Crashlytics, gives developers the ability to keep track of, prioritize, and fix issues. Potential stability problems can be avoided by using the Crashlytics feature.
 
   * _Analytics_
-
+    The functionalities of Google Analytics, which is integrated with Firebase, are available to Firebase users. Users can report on as many Firebase SDK events as they want using Analytics. Analytics can be used by developers to better understand user behavior and make better decisions.
+    
   * _Performance Monitoring_
+    You can use the Firebase Performance Monitoring service to learn more about the performance traits of your iOS, Android, and web apps.
 
   * _Test Lab_
+    A cloud-based infrastructure called Firebase Test Lab is used to test applications. It enables users to operate across numerous devices and various device configurations to test their iOS and Android applications.
 
   * _App Distribution_
-
+    A user's beta testing programme on both the Android and iOS platforms may be viewed in detail with the use of the Firebase App Distribution tool. Before a new release is produced, users can provide helpful input.
   
 * __Engage__
   * _Remote Config_
-  
+    A cloud service known as "Remote Config" enables users to change the behavior and appearance of programmes without having to update them. Users can also design default in-app settings to maintain the functionality and aesthetics of their apps.
+
   * _Predictions_
+    A helpful tool called Firebase Predictions uses machine learning to create dynamic user segments based on behavior. With Firebase Remote Config, In-App Messaging, A/B Testing, and the Firebase Notifications composer, automatic predictions are available.
 
   * _A/B Testing_
+    A/B Testing is a Firebase function that aids in app management, scaling, and analysis so that developers may provide better app user experiences. Before an app opens, users may immediately test changes made to the UI, features, and campaigns.
 
   * _Dynamic Links_
+    Smart URLs called Firebase Dynamic Links allow application managers to point present and potential consumers to various areas of Android or iOS applications. This feature allows new users to view content when an app is first started and can function without being impacted by the installation.
 
   * _In App-Messaging_
-
+    A Firebase feature called In-App Messaging uses contextual messaging to interact with consumers of active apps. Users can perform specified in-app actions to unlock particular offerings or gain access to other capabilities.
