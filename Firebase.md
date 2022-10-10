@@ -103,3 +103,10 @@ The Firebase use cases include:
 
   * _In App-Messaging_
     A Firebase feature called In-App Messaging uses contextual messaging to interact with consumers of active apps. Users can perform specified in-app actions to unlock particular offerings or gain access to other capabilities.
+
+## Conclusion
+Google's mobile app development platform is called _Firebase_. An end-to-end development environment, a quicker time to market for developing apps, and scalable infrastructure are some of its benefits. Despite being a great product, Firebase has drawbacks. It is a closed-source platform that exclusively offers NoSQL databases and has vendor lock-in.
+
+Price oriented There are two different operating plans for Firebase. The first one is Spark, which has a sizable free tier and includes the majority of Firebase functionality. The premium plan, known as Blaze, charges the application based on the workload used and operates on a usage-based model.
+
+_Build_, _Release & Monitor_, and _Engage_ are the three main categories into which Firebase separates its features. All of these are used at various stages of the app development process.
